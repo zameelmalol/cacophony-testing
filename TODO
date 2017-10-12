@@ -1,0 +1,23 @@
+Core
+* Embeddable version with iframe
+* Use JSONP for remote data fetching
+* Keep or replace cake.js with something maintained?
+  * http://ocanvas.org/
+  * http://easeljs.com/
+  * https://github.com/ysimonson/canvas.js
+  * https://github.com/biilly/doodle-js
+* Improve performance
+* Subtitles effect
+
+Slideshow
+* Add slide-in and other effects
+
+Skyline
+* First bar glitch
+
+Future/Miscellaneous
+* Effects on video itself (b&w, blur, etc)
+* Fullscreen view
+* Loading done when all elements preloaded
+* Configurable preload percent before playable
+* Cake.js always takes top-most layer
